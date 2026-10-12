@@ -1,0 +1,3 @@
+export const APP_NAME = 'Quad'
+
+export const APP_TAGLINE = 'Meet your university community before day one.'
